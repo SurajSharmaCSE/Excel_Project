@@ -3,8 +3,23 @@ A lightweight **Excel-like spreadsheet application** built using **HTML, CSS, an
 ---
 ## 🌐 Live Demo
 ```
-https://surajsharmacse.github.io/Excel_Project/
+https://github.com/SurajSharmaCSE/Mern_Stack_2025/tree/master/9_Browser_Module/Excel_Project/
 ```
+---
+## 📝 Note on Repository Structure & Commits
+This project originally lives inside my main MERN practice repository:
+```
+SurajSharmaCSE/MernStack2025/Excel
+```
+All commits you see in this folder are **real, continuous development commits** made while building this Excel Clone from scratch.
+
+This README is placed here as a **separate pushed project** so that recruiters or clients can clearly verify:
+- The commits are **not fake**
+- The work reflects **real progress and learning**
+- Each feature was built step‑by‑step in the actual development history
+
+I maintain full transparency in all my repositories and push commits exactly as I work.
+
 ---
 
 ## 🚀 Features
