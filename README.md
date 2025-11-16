@@ -1,6 +1,10 @@
 # 📊 Excel Project — Web-Based Spreadsheet
 A lightweight **Excel-like spreadsheet application** built using **HTML, CSS, and JavaScript**. This project recreates core spreadsheet functionality such as cell formatting, formulas, sheet handling, and more — all in the browser.
-
+---
+## 🌐 Live Demo
+```
+https://surajsharmacse.github.io/Excel_Project/
+```
 ---
 
 ## 🚀 Features
@@ -93,14 +97,6 @@ No server required.
 - Drag & fill cells
 - CSV import/export
 - Collaborative editing
-
----
-
-## 🌐 Live Demo
-Add your GitHub Pages or hosted link here:
-```
-https://your-username.github.io/your-repo/
-```
 
 ---
 
