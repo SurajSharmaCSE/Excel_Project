@@ -1,4 +1,4 @@
-# 📊 Excel Clone — Web-Based Spreadsheet
+# 📊 Excel Project — Web-Based Spreadsheet
 A lightweight **Excel-like spreadsheet application** built using **HTML, CSS, and JavaScript**. This project recreates core spreadsheet functionality such as cell formatting, formulas, sheet handling, and more — all in the browser.
 
 ---
@@ -43,7 +43,6 @@ Excel-Clone/
 │── cell-properties.js
 │── formula.js
 │── cycleValidation.js
-│── dependencyGraph.js
 │── README.md
 ```
 
@@ -86,11 +85,6 @@ Prevents infinite loops:
 ## ▶️ Run the Project
 Just open the `index.html` file in any browser.
 No server required.
-
----
-
-## 📸 Screenshots (optional section)
-Add images here if needed.
 
 ---
 
